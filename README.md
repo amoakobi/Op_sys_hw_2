@@ -1,5 +1,5 @@
-# operating_syst_sp24
-Operating System Homework Assignment #2 Banker's Algorithm
+
+#Operating System Homework Assignment #2 Banker's Algorithm
 
 *Coded on XCode
 
